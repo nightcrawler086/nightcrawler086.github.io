@@ -17,6 +17,9 @@ url:  'http://blog.nightcrawler.me'
 
 markdown: kramdown
 
+# highlighter
+highlighter: pygments
+
 sass:
   sass_dir: css
   style:    expanded
