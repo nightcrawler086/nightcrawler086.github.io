@@ -24,7 +24,7 @@ sass:
   sass_dir: css
   style:    expanded
 
-permalink: /:title.html
+permalink: date
 
 exclude:
 - README.md
