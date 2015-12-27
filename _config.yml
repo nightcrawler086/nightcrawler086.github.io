@@ -12,12 +12,12 @@ path: 'http://nightcrawler086.github.io'
 url:  'http://blog.nightcrawler.me'
 
 # About
-author:
-	name:  Brian Hall
-	url: https://twitter.com/nightcrawler086
-	email: brian.hall4@gmail.com
-	github: nightcrawler086
-	twitter: nightcrawler086
+#author:
+#	name:  Brian Hall
+#	url: https://twitter.com/nightcrawler086
+#	email: brian.hall4@gmail.com
+#	github: nightcrawler086
+#	twitter: nightcrawler086
 
 # Gems
 gems:
