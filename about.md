@@ -11,4 +11,4 @@ I've been working in IT in some capacity for the past 9 years.  I've been focusi
 
 Everyone knows that the infrastrcutre side of IT is changing (again).  The way infrastructure is being used and consumed eliminates the middle-man (people like me).  Infrastructure/product specialists, like myself, are being replaced by software and public cloud infrastructures.
 
-Most of what I write about here will be about me trying to evolve from a storage/virtualization guy into..something else.
+Most of what I write about here will be about me trying to evolve from a storage/virtualization engineer into..something else.
