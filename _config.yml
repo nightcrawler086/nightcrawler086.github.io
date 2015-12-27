@@ -11,6 +11,22 @@ author:
 path: 'http://nightcrawler086.github.io'
 url:  'http://blog.nightcrawler.me'
 
+# About
+author:
+	name:  Brian Hall
+	url: https://twitter.com/nightcrawler086
+	email: brian.hall4@gmail.com
+	github: nightcrawler086
+	twitter: nightcrawler086
+
+# Gems
+gems:
+	- jekyll-paginate
+
+# pagination
+paginate: 5
+paginate_path: "/blog/page:num/"
+
 
 ########
 # more settings
@@ -24,7 +40,9 @@ sass:
   sass_dir: css
   style:    expanded
 
-permalink: date
+# permalink
+permalink: /:year/:month/:day/:title
+relative_permalinks: true
 
 exclude:
 - README.md
