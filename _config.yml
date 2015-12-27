@@ -20,8 +20,8 @@ url:  'http://blog.nightcrawler.me'
 #	twitter: nightcrawler086
 
 # Gems
-gems:
-	- jekyll-paginate
+#gems:
+#	- jekyll-paginate
 
 # pagination
 #paginate: 5
