@@ -5,8 +5,10 @@ layout: default
 permalink: /about/
 ---
 
-# Professional information
+## a little about me
 
-My name is Brian Hall.  I've been in working in IT in various capacities for the past 9 years or so.  I'm currently a consultant that specializes in Storage and Virtualization.  Most of my experience has been in the SMB (Small/Medium Business) space.
+I've been working in IT in some capacity for the past 9 years.  I've been focusing on storage and virtualization for the past 5 years or so.  Currently I work as a Storage Management Consultant for a well-known storage company.  Most of what I write will not be about that (I hope).
 
-Recently, with all the changes in how we approach and consume infrastructure, my focuses are changing as well.  I'm trying to move away from being a product specialist.  I want to move more up the stack, although that direction isn't completely clear at the moment.  Most of what I put on this site will be about that.
+Everyone knows that the infrastrcutre side of IT is changing (again).  The way infrastructure is being used and consumed eliminates the middle-man (people like me).  Infrastructure/product specialists, like myself, are being replaced by software and public cloud infrastructures.
+
+Most of what I write about here will be about me trying to evolve from a storage/virtualization guy into..something else.
