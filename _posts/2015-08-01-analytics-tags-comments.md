@@ -3,11 +3,6 @@ layout: post
 title: "Analytics, tags and comments"
 date: 2015-08-01 16:25:06
 description: Here you'll find how to setup analytics, tags and comments for your blog
-tags:
- - jekyll
- - analytics
- - tags
- - comments
 ---
 
 ## Analytics
