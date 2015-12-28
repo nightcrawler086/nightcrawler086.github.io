@@ -12,11 +12,8 @@ baseurl: ''
 
 social:
   github: nightcrawler086
-  stackoverflow: ''
-  linkedin:
-  instagram: ''
-  lastfm: ''
-  rss: feed.xml
+  linkedin: 'bhall4'
+  instagram: 'nightcrawler086'
 
 # Google Analytics key, leave blank to ignore
 google_analytics_key:
