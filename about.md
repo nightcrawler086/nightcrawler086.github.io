@@ -3,28 +3,11 @@ layout: page
 title: about
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+# a little about me
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I've been in the IT industry in various roles over the past 9 years.  My focuses have ranged from networking to virtualization to storage.  I currently work as a consultant for a well-known storage company.  
 
-There are currently two themes built on Poole:
+I've been meaning to have my own blog for a while, and am just now getting around it.  Let's call it a new year's resolution.  Another one of those resolutions, and the primary reason for this blog, is the shift in the way companies use and consume infrastructure.  Public clouds like AWS, Azure, and Google are becoming the first choice for infrastrcutre instead of putting it in their own datacenters.  For that reason, I mean to evolve from a product specialist into something a bit higher up the stack.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+This site was created using [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/).  I'm using a slightly modified version of the [Hyde theme](http://hyde.getpoole.com).  You can find the theme's repo on 
+[GitHub](http://github.com) [here](https://github.com/poole/hyde).
