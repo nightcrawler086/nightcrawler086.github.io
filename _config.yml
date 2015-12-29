@@ -16,6 +16,9 @@ baseurl:          /
 author:
   name:           'Brian Hall'
   url:            https://twitter.com/nightcrawler086
+  twitter:        nightcrawler086
+  linkedin:       bhall4
+  github:		  nightcrawler086
 
 paginate:         5
 
