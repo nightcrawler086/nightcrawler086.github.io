@@ -3,7 +3,7 @@ layout: page
 title: about
 ---
 
-# a little about me
+## a little about me
 
 I've been in the IT industry in various roles over the past 9 years.  My focuses have ranged from networking to virtualization to storage.  I currently work as a consultant for a well-known storage company.  
 
