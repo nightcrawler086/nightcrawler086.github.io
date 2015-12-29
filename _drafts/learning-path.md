@@ -3,7 +3,9 @@ layout: post
 title: training plan
 ---
 
-Recently I've been considering a career change, or maybe more of a shift.  I've been thinking that it would make sense for me to move up the stack.  
+Recently I've been considering a career "shift".  I've been on the infrastructure side for my entire career, specializing in certain storage platforms and virtualization (VMware).  Buying storage, servers, and networking isn't what companies want to do anymore.  Supporting virtualized environments like that require specialists, which are expensive to employ.  
+
+HCI (Hyper-Converged Infrastructure) and public clouds are making infrastructre so easy to consume, no one wants to have to know how to present and LUN to a virtual host so they can create a virtual machine.  
 
 ## training plan
 
