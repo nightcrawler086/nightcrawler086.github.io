@@ -76,7 +76,7 @@ That being said, here's what my current "learning path" consists of.  This list 
 
 	- Azure
 
- 		* [Azure for Enterprises: What and Why](https://app.pluralsight.com/library/courses/pluralsight-original-microsoft-azure-enterprises)
+		* [Azure for Enterprises: What and Why](https://app.pluralsight.com/library/courses/pluralsight-original-microsoft-azure-enterprises)
 	
 		* [Fundamentals of Azure Cloud Services and Storage](https://app.pluralsight.com/library/courses/azure-cloud-services-storage-fundamentals)
 	
