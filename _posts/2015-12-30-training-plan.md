@@ -15,7 +15,8 @@ That being said, here's what my current "learning path" consists of.  This list 
 
 ### training topics
 
-1. Linux Administration
+
+	1. Linux Administration
 
  1a. [LPIC-1](http://blog.pluralsight.com/learning-path-linux-lpic-1)
 
