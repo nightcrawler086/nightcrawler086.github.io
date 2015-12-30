@@ -1,0 +1,71 @@
+---
+layout: post
+title: lab setup
+---
+
+
+### Home Lab v1
+
+Now into the lab setup.  I live in an apartment (for now), so I don't really have a lot of space for lab gear.  I actually bought a decent, and expensive (~$3500), lab set up to begin with.  It worked well, but it took up a lot of space and used more power than I would have liked.  I bought that lab as a 2-node vSphere cluster with shared storage:
+
+1. Servers
+
+	- Chassis x2 - [Lian-Li PC-V351B](https://www.amazon.com/gp/product/B002GUN4UK/ref=oh_aui_detailpage_o05_s00?ie=UTF8&psc=1)
+
+	- Main Board x2 - [SuperMicro Ultra ATX](https://www.amazon.com/gp/product/B00D65R43C/ref=oh_aui_detailpage_o06_s00?ie=UTF8&psc=1)
+
+	- CPU x2 - [Intel Xeon E3-1230V3 Haswell](http://www.amazon.com/gp/product/B00D697PEG?psc=1&redirect=true&ref_=oh_aui_detailpage_o04_s01)
+
+	- RAM x2 - [Kingston 1600 MHz 32GB Kit](https://www.amazon.com/gp/product/B008LMO1DG/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1)
+
+	- Fans x4 - [Scythe Slip Stream](https://www.amazon.com/gp/product/B00479BPIG/ref=oh_aui_detailpage_o03_s00?ie=UTF8&psc=1)
+
+	- PSU x2 - [Seasonic SS-400FL2](https://www.amazon.com/gp/product/B003ZWQXUQ/ref=oh_aui_detailpage_o04_s01?ie=UTF8&psc=1)
+
+2. Storage
+
+	- NAS - [Synology DS412+](https://www.amazon.com/gp/product/B007JLE84C/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1)
+
+	- Disks x4 - [WD RED 1TB](https://www.amazon.com/gp/product/B008JJLXO6/ref=oh_aui_detailpage_o04_s01?ie=UTF8&psc=1)
+
+3. Network
+
+	- Switch - [Cisco SG300-20](https://www.amazon.com/gp/product/B0041ORN9M/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1)
+
+All this gear took up a lot of space.  Though it wasn't very loud, the noise was noticable.  It also used more power that I hoped it would.  It got to the point where I had to power it down when I wasn't using it, and power it up when I wanted to.  I ended up not using it very much because of this, so I sold it.  
+
+### Home Lab v2
+
+After going through my first lab setup, which I would deem unsuccessful because of the amount of money spent versus the value I got out of it.  I still wanted a lab to work with, but I didn't want to spend that kind of money again only to not use it.  
+
+I took a different approach to buying lab gear this time.  This lab wasn't going to be so VMware-centric, and be built using open-source software.  I didn't want to worry much about clustering hypervisors together (no shared storage) either.  Here were my requirements:
+
+- Space Efficient
+	
+	* Smaller systems?
+
+	* Less pieces
+
+- Power Efficient
+
+- Minimal Noise
+
+- Easier to Scale
+
+- Simple
+
+- Cost
+
+That last requirement, simplicity, was probably the most important.  Which is why I selected the [Intel NUC](http://www.intel.com/content/www/us/en/nuc/overview.html).  They came in i5 and i7 models, with up to 16GB of RAM.  They also supported 2 drives (1 M.2 SSD + 2.5" SSD/HDD).  They only have a single GigE network interface, but this wasn't much of a problem.  Since I'm not using any shared storage, the network was just being used for host/guest traffic.  Here's the parts list:
+
+-  Servers
+
+	* Chassis/Board/CPU x2 - [Intel NUC5i7RYH](2 of Intel NUC Kit NUC5i7RYH Barebone System BOXNUC5I7RYH)
+
+	* RAM - [Crucial 1600MHz 16GB Kit](https://www.amazon.com/gp/product/B007B5S52C/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1)
+
+	* Storage - [Samsung 850 EVO 500GB SSD](https://www.amazon.com/gp/product/B00TGIW1XG/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1)
+
+That's all I bought.  I'm using the ports on the back of my wireless router right now.  I may need to buy a cheap switch when I add more nodes.  I also happened to buy this on Black Friday, so the NUC nodes were $100 cheaper each.  I'm running Centos 7 on each node as a KVM host.  I certain fumble around doing some basic things still, but I am getting more comfortable with them the more time goes on.  The good thing is that they're fast, since I'm not limited by some low-end GigE hardware providing storage.  All the storage is SSD and all local.  
+
+
