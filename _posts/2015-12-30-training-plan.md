@@ -16,13 +16,13 @@ That being said, here's what my current "learning path" consists of.  This list 
 ### training topics
 
 
-* Linux Administration
+1. Linux Administration
 
- * [LPIC-1](http://blog.pluralsight.com/learning-path-linux-lpic-1)
+ 1a. [LPIC-1](http://blog.pluralsight.com/learning-path-linux-lpic-1)
 
- * [LPIC-2](http://blog.pluralsight.com/learning-path-linux-lpic-2)
+ 1b. [LPIC-2](http://blog.pluralsight.com/learning-path-linux-lpic-2)
 	
- * RHCSA
+ 1c. RHCSA
 	
   * [RedHat 6 Booting & Runlevels](https://app.pluralsight.com/library/courses/red-hat-enterprise-linux-6-booting-runlevels)
 	
@@ -30,13 +30,13 @@ That being said, here's what my current "learning path" consists of.  This list 
 
   * [RedHat Enterprise Linux Storage Fundamentals](https://app.pluralsight.com/library/courses/red-hat-enterprise-linux-storage-fundamentals)
 
-* Linux Programming
+2. Linux Programming
 	
- * [Bash](https://app.pluralsight.com/library/courses/introduction-bash-shell-linux-mac-os)
+ 2a. [Bash](https://app.pluralsight.com/library/courses/introduction-bash-shell-linux-mac-os)
 	
- * [Python](http://blog.pluralsight.com/learning-path-python-fundamentals)
+ 2b. [Python](http://blog.pluralsight.com/learning-path-python-fundamentals)
 	
- * Ruby
+ 2c. Ruby
 		
   * [Building a Linux Server for Ruby on Rails Development](https://app.pluralsight.com/library/courses/building-linux-server-for-ruby-on-rails)
 		
@@ -46,29 +46,29 @@ That being said, here's what my current "learning path" consists of.  This list 
 		
   * [Ruby Beyond the Basics](https://app.pluralsight.com/library/courses/ruby-beyond-the-basics)
 	
- * [Go](http://blog.pluralsight.com/learning-path-go)
+ 2d. [Go](http://blog.pluralsight.com/learning-path-go)
 
-* Automation
+3. Automation
 	
- * [Puppet](https://app.pluralsight.com/library/courses/puppet-system-administrators-fundamentals)
+ 3a. [Puppet](https://app.pluralsight.com/library/courses/puppet-system-administrators-fundamentals)
 	
- * Ansible
+ 3b. Ansible
 	
   * [Hands-on Ansible](https://app.pluralsight.com/library/courses/hands-on-ansible)
 	
   * Linux Academy Courses
 	
- * [Chef](https://app.pluralsight.com/library/courses/chef-planning-installing)
+ 3c. [Chef](https://app.pluralsight.com/library/courses/chef-planning-installing)
 
-* Cloud
+4. Cloud
 	
- * AWS
+ 4a. AWS
 	
   * [AWS Fundamentals for System Administrators](https://app.pluralsight.com/library/courses/aws-system-admin-fundamentals)
 	
   * [AWS Certified Sysops Administrator Associate](https://app.pluralsight.com/library/courses/aws-certified-sysops-admin-associate)
 	
- * Google Cloud
+ 4b. Google Cloud
 	
   * [Introduction to Google Cloud](https://app.pluralsight.com/library/courses/google-cloud-intro)
 	
@@ -76,7 +76,7 @@ That being said, here's what my current "learning path" consists of.  This list 
 	
   * [Azure for Enterprises: What and Why](https://app.pluralsight.com/library/courses/pluralsight-original-microsoft-azure-enterprises)
 	
- * Azure
+ 4c. Azure
 	
   * [Fundamentals of Azure Cloud Services and Storage](https://app.pluralsight.com/library/courses/azure-cloud-services-storage-fundamentals)
 	
@@ -86,12 +86,12 @@ That being said, here's what my current "learning path" consists of.  This list 
 		
   * [Architecting Azure Solutions](https://app.pluralsight.com/library/courses/architecting-azure-solutions-70-534-infrastructure-networking)
 	
- * Openstack
+ 4d. Openstack
 	
   * [Introduction to Openstack](https://app.pluralsight.com/library/courses/openstack-introduction)
 	
   * Linux Academy Courses
 
-* Networking
+5. Networking
 
  * [CCNP](http://blog.pluralsight.com/learning-path-cisco-ccnp-routing-and-switching)
