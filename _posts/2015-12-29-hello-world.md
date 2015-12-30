@@ -1,6 +1,7 @@
 ---
 layout: post
 title: hello world
+date: 2015-12-29 17:00:00
 ---
 
 Hello World! This is my first post to this blog (hence the title), so it's just an introduction really.

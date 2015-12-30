@@ -1,6 +1,7 @@
 ---
 layout: post
 title: training plan
+date: 2015-12-30 11:15:00
 ---
 
 Down to what I what to learn and write about.
