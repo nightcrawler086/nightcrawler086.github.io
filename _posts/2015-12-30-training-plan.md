@@ -23,11 +23,11 @@ That being said, here's what my current "learning path" consists of.  This list 
 	
 	1c. RHCSA
 	
-		- [RedHat 6 Booting & Runlevels](https://app.pluralsight.com/library/courses/red-hat-enterprise-linux-6-booting-runlevels)
+		[RedHat 6 Booting & Runlevels](https://app.pluralsight.com/library/courses/red-hat-enterprise-linux-6-booting-runlevels)
 	
-		- [RedHat Linux Shell Fundamentals](https://app.pluralsight.com/library/courses/red-hat-enterprise-linux-shell-fundamentals)
+		[RedHat Linux Shell Fundamentals](https://app.pluralsight.com/library/courses/red-hat-enterprise-linux-shell-fundamentals)
 
-		- [RedHat Enterprise Linux Storage Fundamentals](https://app.pluralsight.com/library/courses/red-hat-enterprise-linux-storage-fundamentals)
+		[RedHat Enterprise Linux Storage Fundamentals](https://app.pluralsight.com/library/courses/red-hat-enterprise-linux-storage-fundamentals)
 
 2. Linux Programming
 	
@@ -37,13 +37,13 @@ That being said, here's what my current "learning path" consists of.  This list 
 	
 	2c. Ruby
 		
-		- [Building a Linux Server for Ruby on Rails Development](https://app.pluralsight.com/library/courses/building-linux-server-for-ruby-on-rails)
+		[Building a Linux Server for Ruby on Rails Development](https://app.pluralsight.com/library/courses/building-linux-server-for-ruby-on-rails)
 		
-		- [Ruby on Rails 4: Getting Started](https://app.pluralsight.com/library/courses/ruby-rails-4-getting-started)
+		[Ruby on Rails 4: Getting Started](https://app.pluralsight.com/library/courses/ruby-rails-4-getting-started)
 		
-		- [Ruby Fundamentals](https://app.pluralsight.com/library/courses/ruby-fundamentals)
+		[Ruby Fundamentals](https://app.pluralsight.com/library/courses/ruby-fundamentals)
 		
-		- [Ruby Beyond the Basics](https://app.pluralsight.com/library/courses/ruby-beyond-the-basics)
+		[Ruby Beyond the Basics](https://app.pluralsight.com/library/courses/ruby-beyond-the-basics)
 	
 	2d. [Go](http://blog.pluralsight.com/learning-path-go)
 
@@ -53,9 +53,9 @@ That being said, here's what my current "learning path" consists of.  This list 
 	
 	3b. Ansible
 	
-		- [Hands-on Ansible](https://app.pluralsight.com/library/courses/hands-on-ansible)
+		[Hands-on Ansible](https://app.pluralsight.com/library/courses/hands-on-ansible)
 	
-		- Linux Academy Courses
+		Linux Academy Courses
 	
 	3c. [Chef](https://app.pluralsight.com/library/courses/chef-planning-installing)
 
@@ -63,33 +63,33 @@ That being said, here's what my current "learning path" consists of.  This list 
 	
 	4a. AWS
 	
-		- [AWS Fundamentals for System Administrators](https://app.pluralsight.com/library/courses/aws-system-admin-fundamentals)
+		[AWS Fundamentals for System Administrators](https://app.pluralsight.com/library/courses/aws-system-admin-fundamentals)
 	
-		- [AWS Certified Sysops Administrator Associate](https://app.pluralsight.com/library/courses/aws-certified-sysops-admin-associate)
+		[AWS Certified Sysops Administrator Associate](https://app.pluralsight.com/library/courses/aws-certified-sysops-admin-associate)
 	
 	4b. Google Cloud
 	
-		- [Introduction to Google Cloud](https://app.pluralsight.com/library/courses/google-cloud-intro)
+		[Introduction to Google Cloud](https://app.pluralsight.com/library/courses/google-cloud-intro)
 	
-		- [Introduction to Google Compute Engine](https://app.pluralsight.com/library/courses/google-compute-engine)
+		[Introduction to Google Compute Engine](https://app.pluralsight.com/library/courses/google-compute-engine)
 	
-		- [Azure for Enterprises: What and Why](https://app.pluralsight.com/library/courses/pluralsight-original-microsoft-azure-enterprises)
+		[Azure for Enterprises: What and Why](https://app.pluralsight.com/library/courses/pluralsight-original-microsoft-azure-enterprises)
 	
 	4c. Azure
 	
-		- [Fundamentals of Azure Cloud Services and Storage](https://app.pluralsight.com/library/courses/azure-cloud-services-storage-fundamentals)
+		[Fundamentals of Azure Cloud Services and Storage](https://app.pluralsight.com/library/courses/azure-cloud-services-storage-fundamentals)
 	
-		- [Extending Active Directory to the Cloud](https://app.pluralsight.com/library/courses/extending-active-directory-cloud)
+		[Extending Active Directory to the Cloud](https://app.pluralsight.com/library/courses/extending-active-directory-cloud)
 	
-		- [Implementing Cloud Services for Azure Infrastructure](https://app.pluralsight.com/library/courses/implementing-cloud-services-azure-infrastructure)
+		[Implementing Cloud Services for Azure Infrastructure](https://app.pluralsight.com/library/courses/implementing-cloud-services-azure-infrastructure)
 		
-		- [Architecting Azure Solutions](https://app.pluralsight.com/library/courses/architecting-azure-solutions-70-534-infrastructure-networking)
+		[Architecting Azure Solutions](https://app.pluralsight.com/library/courses/architecting-azure-solutions-70-534-infrastructure-networking)
 	
 	4d. Openstack
 	
-		- [Introduction to Openstack](https://app.pluralsight.com/library/courses/openstack-introduction)
+		[Introduction to Openstack](https://app.pluralsight.com/library/courses/openstack-introduction)
 	
-		- Linux Academy Courses
+		Linux Academy Courses
 
 5. Networking
 
