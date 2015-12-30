@@ -73,10 +73,10 @@ That being said, here's what my current "learning path" consists of.  This list 
 		* [Introduction to Google Cloud](https://app.pluralsight.com/library/courses/google-cloud-intro)
 	
 		* [Introduction to Google Compute Engine](https://app.pluralsight.com/library/courses/google-compute-engine)
-	
-		* [Azure for Enterprises: What and Why](https://app.pluralsight.com/library/courses/pluralsight-original-microsoft-azure-enterprises)
-	
- 	- Azure
+
+	- Azure
+
+ 		* [Azure for Enterprises: What and Why](https://app.pluralsight.com/library/courses/pluralsight-original-microsoft-azure-enterprises)
 	
 		* [Fundamentals of Azure Cloud Services and Storage](https://app.pluralsight.com/library/courses/azure-cloud-services-storage-fundamentals)
 	
@@ -85,7 +85,7 @@ That being said, here's what my current "learning path" consists of.  This list 
 		* [Implementing Cloud Services for Azure Infrastructure](https://app.pluralsight.com/library/courses/implementing-cloud-services-azure-infrastructure)
 		
 		* [Architecting Azure Solutions](https://app.pluralsight.com/library/courses/architecting-azure-solutions-70-534-infrastructure-networking)
-	
+
 	- Openstack
 	
 		* [Introduction to Openstack](https://app.pluralsight.com/library/courses/openstack-introduction)
