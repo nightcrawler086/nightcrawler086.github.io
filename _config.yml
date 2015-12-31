@@ -1,3 +1,7 @@
+# Site Info
+name: nightcrawler.me
+descrtiption: a blog about anything from enterprise storage, virtulaization, linux, OSX, and anything in-between
+
 # Dependencies
 markdown:         kramdown
 highlighter:      pygments
