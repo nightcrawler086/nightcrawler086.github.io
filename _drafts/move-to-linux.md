@@ -1,18 +1,23 @@
 ---
 layout: post
-title: Should I switch to Linux?
+title: Should I Switch to Linux
 date:
 ---
 
-I actually revisit this question a couple times a year.  Could I really switch my primary machine to Linux?  
+I first switched to OSX about 5 years ago.  Around the same time, I adopted a modified GTD approach.  Before that I did what I imagined most people did to get things done:  do the things you remember (in no particular order), and don't do the things you don't remember.  Once I started reading about a GTD approach I was hooked.  This is a way for me to become better/faster/smarter.
 
-I've been an OSX user for about 5 years now.  I was skeptical about switching to a Mac when I first bought one.  I knew that I could run a Windows VM on it before I bought it, so I had that to fall back on.  However, the switch was pretty painless.  After about a week I was comfortable.
+Ever since then, my GTD setup has been heavily influenced by some guys I follow, with some customizations that work for me.  The problem is, that I am always changing it.  A goal of mine this year is to find an approach and stay with it for at least a year.
 
 
-### Why?
+### Current Setup
 
-Before we go any further, the question to answer is 'Why?'.  Why am I even considering switching to Linux?  Why go through the trouble?  The answer is freedom.  I loved OSX when I first started using it.  It's not a hard thing to do coming from the Windows world, which I still despise on principal.  Being a power-user means the more time you spend with a machine, the deeper into you get.  The deeper into OSX I get, the less I like it.  I'm to the point where I don't like being locked into anything.  
+As I said, I'm an OSX user today.  I don't see me really switching away from it right now, although I've considered switching to Linux many times.  There are three areas where the tools I use can fall into:
 
+-  Capture
+-  Process
+-  Action  
+
+The capture 
 ### Why Not?
 
 Mac still have some things going for them.  They only have to support their hardware, which makes the expierience more consistent (most of the time).  Their hardware is nothing if not stylish, and well designed.  I still get great battery life out of my 2012 MBPr.  The performance is still great, the SSD in it is fast, and the machine is thin and light.
