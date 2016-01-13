@@ -1,27 +1,20 @@
 ---
 layout: post
-title: Should I Switch to Linux
+title: GTD
 date:
 ---
 
-I first switched to OSX about 5 years ago.  Around the same time, I adopted a modified GTD approach.  Before that I did what I imagined most people did to get things done:  do the things you remember (in no particular order), and don't do the things you don't remember.  Once I started reading about a GTD approach I was hooked.  This is a way for me to become better/faster/smarter.
+Starting in 2016, I wanted to make some adjustments to my GTD setup.  I've been cycling some different tools and applications every so often.  I wanted to revisit this with some proper attention to solidify it.  
 
-Ever since then, my GTD setup has been heavily influenced by some guys I follow, with some customizations that work for me.  The problem is, that I am always changing it.  A goal of mine this year is to find an approach and stay with it for at least a year.
+### Old Setup
 
+I had application for three purposes:  Capture, Process, and Execution.  The Capture and Process applications are where the GTD approach really focuses.  So, here are the applications I used:
 
-### Current Setup
+- Capture
+	* EagleFiler
+- Process
+	* OmniFocus
 
-As I said, I'm an OSX user today.  I don't see me really switching away from it right now, although I've considered switching to Linux many times.  There are three areas where the tools I use can fall into:
+Let's start with the Capture phase.  EagleFiler was (and still is) really good for this.  It was easy to get started, and it supported most of the applications I needed it to (Safari, Mail, etc).  There was really no learning curve, except to learn the capture key combination.  So once it was installed I started capturing everything (not literally, but too much I think).  I found myself struggling with what to put there.  Did I want to drop large PDFs that I didn't necessarily read, but wanted to be able to search?  That progessed to me asking the question of what don't I put in the library?  I felt like this was getting out of hand.  It was a great tool and I used it from time to time, but not really as it was designed.
 
--  Capture
--  Process
--  Action  
-
-The capture 
-### Why Not?
-
-Mac still have some things going for them.  They only have to support their hardware, which makes the expierience more consistent (most of the time).  Their hardware is nothing if not stylish, and well designed.  I still get great battery life out of my 2012 MBPr.  The performance is still great, the SSD in it is fast, and the machine is thin and light.
-
-Another aread where they excel, and is really the reason why I haven't switched to Linux already, is in applications.  OSX has some really good applications for it, which comes from their popularity.  
-
-Yet another reason is cosmetic.  OSX is still the most polished operating system I've used.  The same style and design is followed in almost every app I use.
+Now the process phase.  This is where Omnifocus comes in.  It was a bit pricy at $79.99, but well worth it.  It did have a learning curve to understand how it was designed.
