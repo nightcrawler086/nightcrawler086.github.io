@@ -69,6 +69,8 @@ Contains `/proc/interrupts` which define the systems IRQ for different devices.
 
 PID 1 is always `init`.  This process brings the system up.
 
+each numbered directory in /proc represents resource usage of a running process on the system.
+
 **/dev**
 
 a pseudo file system about the devices in the system
@@ -81,6 +83,21 @@ a pseudo file system about the devices in the system
 
 ### Understand and Managing Linux File System
 
+Most IDE/SATA devices appear as (emulated) SCSI devices.  
+
+`lsblk` will list all block devices the OS can see.
+
+`fidsk` can be used for MBR style partitions
+
+`parted` can be used for GPT style partitions
+
+`gdisk` can also be used to for GPT style partitions, but may need to be installed manually.
+
+
 ### Virtual Memory and File System Tools
 
 ### Controlling Access to File Systems
+
+To be able to read/write to a file, you need permissions to the file.  To delete a file, you need permissions on the directory (b/c you are modifying the directory).
+
+the /usr directory (usr for unix system resources)
