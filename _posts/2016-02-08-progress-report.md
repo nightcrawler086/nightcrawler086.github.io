@@ -8,7 +8,7 @@ So, I wanted to do a progress report of how my training has been going.  I'd lik
 
 ### Completed Items
 
-Since most of my training currently are via online courses ([Pluralsight](pluralsight.com)) and the like), this section will mostly contain the course I've completed.  If there are other items worth mentioning, I will add them here as well.
+Since most of my training currently are via online courses ([Pluralsight](pluralsight.com) and the like), this section will mostly contain the course I've completed.  If there are other items worth mentioning, I will add them here as well.
 
 -  [Linux Installation and Initial Configuration](https://app.pluralsight.com/library/courses/linux-installation-configuration) by [Andrew Mallett](http://twitter.com/theurbanpenguin)
 
