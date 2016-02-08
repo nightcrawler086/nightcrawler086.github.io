@@ -4,7 +4,7 @@ descrtiption: a blog about anything from enterprise storage, virtulaization, lin
 
 # Dependencies
 markdown:         kramdown
-highlighter:      pygments
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
