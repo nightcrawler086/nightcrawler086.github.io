@@ -16,7 +16,7 @@ I'm still an OSX user today, but my disdain for it is growing.  The more I use i
 
 ### OSX (the good parts)
 
-There are a lot of things I like about my Macbook and my other Apple devices.  I currently own a early-2013 Macbook Pro with Retina Display, iPad Mini (first-gen), iMac 5K Retina, two Apple TVs, and an iPhone 6 (ya, I was/is/am kind of a fanboy).  My iPad is really for my daughter now, so I don't really use it anymore.  When I was using it, it was really just for Netflix/Hulu.  Anyways, let's get to the things I like about Apple hardware/software ecosystem:
+There are a lot of things I like about my Macbook and my other Apple devices.  I currently own a early-2013 Macbook Pro with Retina Display, iPad Mini (first-gen), iMac 5K Retina (btw, new motherboard for this is ~$800), two Apple TVs, and an iPhone 6 (ya, I was/is/am kind of a fanboy).  My iPad is really for my daughter now, so I don't really use it anymore.  When I was using it, it was really just for Netflix/Hulu.  Anyways, let's get to the things I like about Apple hardware/software ecosystem:
 
 **iMessage**
 
@@ -24,7 +24,11 @@ This is a pretty big one.  Everyone in my entire family currently owns an Apple 
 
 **iTunes**
 
-Don't get me wrong here, I'm no lover of the iTunes program.  This is really about the iTunes Store.  If there's an album coming out that I want or a move that I want to buy or rent, I've never had trouble finding it in the iTunes Store.  Any (new) movie that I want to watch is coming from the iTunes Store.  Where this can present a problem is with Music.  I virtually listen to music all day (as long as no one talks to me).
+Don't get me wrong here, I'm no lover of the iTunes program (I don't hate it either).  This is really about the iTunes Store.  If there's an album coming out that I want or a move that I want to buy or rent, I've never had trouble finding it in the iTunes Store.  Any (new) movie that I want to watch is coming from the iTunes Store.  Where this can present a problem is with Music.  I virtually listen to music all day (as long as no one talks to me).
+
+**Apps**
+
+This is a general one, but it is worth mentioning.  For most apps out there today, it's a pretty safe bet that there is a Mac version.  At the same time, the interfaces are polished and simple.  
 
 ### Top linux laptop options
 
