@@ -7,7 +7,7 @@ layout: null
     <title>{{ site.name | xml_escape }} - Articles</title>
     <description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>
     <link>
-    {{ site.url }}</link>
+    {{ site.url }}/feed</link>
     {% for post in site.posts %}
       {% unless post.link %}
       <item>
