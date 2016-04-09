@@ -4,8 +4,6 @@ title:  Progress Report - March 2016
 date:  2016-04-09 16:56
 ---
 
-## Progress Report - March 2016
-
 For the last month, I've been entirely focused on AWS (Amazon Web Services), and it's been interesting to say the least.  Coming from a traditional infrastructure background, it felt like going into enemy territory.  The vendors and products in which I specialized all but declared AWS (and public clouds like them) public enemy number one.  Now that I'm learning more about them, I definitely understand why.
 
 I finally gave in and purchased a subscription to [Linux Academy](linuxacademy.com).  Their content on AWS alone has been worth it.  I'm excited for a lot of the other content there as well. 
