@@ -1,9 +1,10 @@
 ---
 layout:  post
-title:  Progress Report - June 2016
-date:  2016-06-28
+<<<<<<< HEAD
+title:  AWS Certified Solutions Architect - Associate
+date:  2016-07-31
 ---
 
-It's been a little while since I've written anything here.  I've been busy with a job transition and moving at the same time.  
+I've really been slacking the past few months.  Several things have been taking up my time and some of those things should have (others certainly should not have).  It got to a point where I had been "studying" for months.  Most of the other certifications that I have did not take near as long.  I needed some motivation.  The best way I know how is to schedule it.  Shell out some cash and get a day of when you **will** take this exam, ready or not.  The next few weeks I was a bit more focused on studying.
 
-Studying has been sluggish at best, but I'm starting to pick up the pace again now.  I finally scheduled my exam for the AWS Certified Solutions Architect - Associate.  I've gone through all the material on [Linux Academy](https://linuxacademy.com) now, but I need to solidify that.  I have a basic idea of how all the services fit together, but I need to go deeper and spend some more time in the AWS Console.
+I've acquired a few different certifications over the years, but this one was a bit unique.  My studying habits havn't changed much either.  I typically have use the same resources for every exam:
