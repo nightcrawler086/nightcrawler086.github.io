@@ -6,6 +6,14 @@ date:  2016-07-31
 
 I've really been slacking the past few months.  Several things have been taking up my time and some of those things should have (others certainly should not have).  It got to a point where I had been "studying" for months.  Most of the other certifications that I have done have not taken near as long.  I needed some motivation.  The best way I know how is to schedule the exam.  Something about the possibility of losing the money I paid to take the exam generally works. Interestingly enough, my free time from then on was spent studying ;).
 
-This test was a bit more unique than the other exams I've taken.  I always had training material from the vendor for each exam I've taken.  The material I had for those exams always covered every question on the exam.  I've also always had an exam dump.  For taking an exam, I typically go through the material twice then "reverse-engineer" the exam dump.  So, instead of memorizing the questions as-is, I research and learn the answers I don't know.  Doing this can be considered cheating I suppose, but it does help pass the test.  At the same time, it usually causes me to find answers to questions I normally wouldn't have asked.
+This test was a bit more unique than the other exams I've taken.  I always had training material from the vendor for each exam I've taken.  The material I had for those exams always covered every (virutally) question on the exam.  I've also typically use an exam dump.  For taking an exam, I typically go through the material twice then "reverse engineer" the exam dump.  So, instead of memorizing the questions as-is, I research and learn the answers I don't know.  Doing this can be considered cheating I suppose, but it does help pass the test.  At the same time, it usually causes me to find answers to questions I normally wouldn't have asked.
 
-That being said, I had neither (vendor study material, or an exam dump) for this exam.  I had 
+That being said, I had neither (vendor study material, or an exam dump) for this exam.  I had three resources:
+
+- Training videos from [linuxacademy.com](https://linuxacademy.com)
+- [AWS Whitepapers](https://aws.amazon.com/whitepapers/)
+- [AWS Console](https://aws.amazon.com)
+
+This exam was kind of a test for me.  Partly to see how I would do without my typical resources and see how good the content is at [linuxacademy.com](https://linuxacademy.com).  I can say that my passing score was not as good (I typically hit 90% or better).
+
+I was reasonably confident when I sat down to take the exam.  It took about five questions for me to go from reasonably confident to "uh-oh."  I started to get worried because I didn't know the answers to the questions immediately.  Since I usually already know the questions they were going to ask, this made me nervous.  I marked **several** questions for review, and kept going.  
