@@ -27,9 +27,7 @@ Here is the script I came up with:
 # Setting IFS to break on newlines because that's how the 
 # $NAUTILUS_SCRIPT_SELECTED_FILE_PATHS variable is created
 IFS=$'\n'
-# Setting path for the odrive binary
 odrive="/home/nightcrawler/.odrive-agent/bin/odrive"
-# Check if the odriveagent process is running
 if pgrep -x "odriveagent" > /dev/null
 then
 	for i in $NAUTILUS_SCRIPT_SELECTED_FILE_PATHS; do
