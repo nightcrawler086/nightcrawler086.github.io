@@ -28,7 +28,7 @@ The second `find` command with `xargs`:
 
 This command worked beautifully.  The `-P 4` tells xargs to use all 4 CPUs in my system.  The CPU usage in my system did jump quite a bit.  Here's what `htop` looked like while after I invoked the script:
 
-[htop during recursive sync]({{ site.url }}/public/htop-recursive-sync.gif)
+![htop during recursive sync]({{ site.url }}/public/htop-recursive-sync.gif)
 
 Here's what the whole script looks like:
 
