@@ -42,19 +42,19 @@ ODRIVE="/home/nightcrawler/.odrive-agent/bin/odrive"
 
 if pgrep -x "odriveagent" > /dev/null
 then
-	for i in $NAUTILUS_SCRIPT_SELECTED_FILE_PATHS; do
-		if $ODRIVE sync "$i"
-		then
-			while [[ $(find "${i//.cloudf}" -type f -name "*.cloud*") ]]; do
-				find "${i//.cloudf}" -type f -name "*.cloud*" -print0 | xargs -0 -n1 -P 4 $ODRIVE sync
-			done
-			notify-send "Recursive Sync Complete" "${i//.cloudf}"
-		else
-			notify-send "Sync Failed" "$i"
-		fi
-	done
+  for i in $NAUTILUS_SCRIPT_SELECTED_FILE_PATHS; do
+    if $ODRIVE sync "$i"
+    then
+      while [[ $(find "${i//.cloudf}" -type f -name "*.cloud*") ]]; do
+        find "${i//.cloudf}" -type f -name "*.cloud*" -print0 | xargs -0 -n1 -P 4 $ODRIVE sync
+      done
+      notify-send "Recursive Sync Complete" "${i//.cloudf}"
+    else
+      notify-send "Sync Failed" "$i"
+    fi
+ done
 else
-	notify-send Sync "The odrive agent is not running"
+  notify-send Sync "The odrive agent is not running"
 fi
 ```
 
