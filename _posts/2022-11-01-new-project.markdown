@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "new project"
-date: 2022-11-01 23:43:13 -0500
+date: 2022-11-01 23:43:13 -0400
 categories: dev software microservices javascript nodejs docker containers kubernetes
 ---
 I'm starting this blog back to document a new project I'm working on. I'm working on developing a microservices app to manage my lab infrastructure. I have a similar project going on at work, so this is mainly to help that project move along.
