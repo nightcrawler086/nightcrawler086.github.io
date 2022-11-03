@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "new project"
+title: "the app"
 date: 2022-11-02 21:34:43 -0400
 tags: dev software microservices javascript nodejs docker containers kubernetes ansible xen xenorchestra xcpng
 ---
