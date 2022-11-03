@@ -1,0 +1,22 @@
+---
+layout: post
+title: "new project"
+date: 2022-11-02 21:34:43 -0400
+tags: dev software microservices javascript nodejs docker containers kubernetes ansible xen xenorchestra xcpng
+---
+So, what am I builing?
+
+To put it simply I'm buliding a web-based application to manage my (very small) lab. I don't like having to go between a bunch of different interfaces to do a thing, so I'll start trying to consoldate them into a single interface.
+
+Before we go any further, I'm aware how ridiculous this is.  It's a little nuts to build an enterprise-class app to manage a home lab. It's not really the point though.  The point is to learn how to build web apps in a modern way (and writing it down helps me learn).
+
+## the app
+
+Here's a high-level description of what this entails:
+
+In my lab, I have two virtualized hosts that run the [XCP-ng](https://xcp-ng.org) hypervisor that is being managed by a virutal instance of [Xen Orchestra](https://xen-orchestra.com/#!/xo-home). This is the application that I'll use to automate virtual machines. I'm not certain yet if XenOrchestra has an API that I can use (I know they're developing a new one), but if I have to use a CLI utility that's fine.
+
+On top of those hosts is an instance of [Ansible Automation Platform](https://ansible.com/products/automation-platform). I was able to get a full licensed version through the [Red Hat Developer Program](https://developers.redhat.com) (highly recommended). I want to be able to invoke playbooks from this instance on any of the virutal machines. Ansible has a pretty good API as far as I can tell, so that will be my app's interface with Ansible.
+
+
+Those are the two main pieces of this app. Like I said, I don't exactly know how this is going to go. I'm fully expecting a bunch of changes as we go through this.
