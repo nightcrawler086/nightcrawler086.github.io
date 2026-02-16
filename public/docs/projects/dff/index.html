@@ -14,9 +14,10 @@
 
 <html lang="en-us"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
     <meta charset="utf-8" />
-    <title>Docs | My New Hugo Site</title>
+    <title>Duplicate File Finder (dff) | My New Hugo Site</title>
     <meta name="robots" content="noindex">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="A cli for find duplicate files in a tree">
     <meta name="keywords" content="Documentation, Hugo, Hugo Theme, Bootstrap" />
     <meta name="author" content="Colin Wilson - Lotus Labs" />
     <meta name="email" content="support@aigis.uk" />
@@ -29,13 +30,15 @@
 <link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
 <link rel="manifest" crossorigin="use-credentials" href="http://localhost:1313/site.webmanifest">
-<meta property="og:title" content="Docs" />
-<meta property="og:description" content="" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="http://localhost:1313/docs/" /><meta property="og:image" content="http://localhost:1313/opengraph/card-base-2_hu_acd0abee7e5e1a24.png"/><meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:image" content="http://localhost:1313/opengraph/card-base-2_hu_acd0abee7e5e1a24.png"/>
-<meta name="twitter:title" content="Docs"/>
-<meta name="twitter:description" content=""/>
+<meta property="og:title" content="Duplicate File Finder (dff)" />
+<meta property="og:description" content="A cli for find duplicate files in a tree" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://localhost:1313/docs/projects/dff/" /><meta property="og:image" content="http://localhost:1313/opengraph/card-base-2_hu_bb14d2a5e09c7512.png"/><meta property="article:section" content="docs" />
+<meta property="article:published_time" content="2026-02-16T11:38:35-05:00" />
+<meta property="article:modified_time" content="2026-02-16T11:38:35-05:00" /><meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="http://localhost:1313/opengraph/card-base-2_hu_bb14d2a5e09c7512.png"/>
+<meta name="twitter:title" content="Duplicate File Finder (dff)"/>
+<meta name="twitter:description" content="A cli for find duplicate files in a tree"/>
 
     
     
@@ -71,16 +74,16 @@
                 
                     
                     
-                        <li class="sidebar-dropdown no-icon ">
+                        <li class="sidebar-dropdown no-icon current active">
                             <button class="btn">
                                 Projects
                             </button>
-                            <div class="sidebar-submenu ">
+                            <div class="sidebar-submenu d-block">
                                 <ul>
                                     
                                         
                                         
-                                            <li class=" no-icon"><a class="sidebar-nested-link" href="http://localhost:1313/docs/projects/dff/">Duplicate File Finder (dff)</a></li>
+                                            <li class="current no-icon"><a class="sidebar-nested-link" href="http://localhost:1313/docs/projects/dff/">Duplicate File Finder (dff)</a></li>
                                         
                                     
                                 </ul>
@@ -212,10 +215,26 @@
                                         <div class="d-md-flex justify-content-between align-items-center"><nav aria-label="breadcrumb" class="d-inline-block pb-2 mt-1 mt-sm-0">
     <ul id="breadcrumbs" class="breadcrumb bg-transparent mb-0" itemscope itemtype="https://schema.org/BreadcrumbList">
         
+            
+                <li class="breadcrumb-item text-capitalize active" aria-current="page" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                    <a itemprop="item" href="/docs/">
+                        <i class="material-icons size-20 align-text-bottom" itemprop="name">Home</i>
+                    </a>
+                    <meta itemprop="position" content='1' />
+                </li>
+            
+            
+                <li class="breadcrumb-item text-capitalize" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                    <a itemprop="item" href="/docs/projects/">
+                        <span itemprop="name">Projects</span>
+                    </a>
+                    <meta itemprop="position" content='2' />
+                </li>
+            
         
-            <li class="breadcrumb-item text-capitalize active" aria-current="page" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
-                <i class="material-icons size-20 align-text-bottom" itemprop="name">Home</i>
-                <meta itemprop="position" content='1' />
+            <li class="breadcrumb-item text-capitalize active" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                <span itemprop="name">Duplicate File Finder (dff)</span>
+                <meta itemprop="position" content='3' />
             </li>
         
     </ul>
@@ -223,13 +242,13 @@
                                     
                                     <div class="row flex-xl-nowrap">
                                         
-                                        <div class="docs-toc col-xl-3 visually-hidden visually-hidden  d-xl-block"><toc>
+                                        <div class="docs-toc col-xl-3  visually-hidden  d-xl-block"><toc>
     <div class="fw-bold text-uppercase mb-2">On this page</div>
     <nav id="TableOfContents"></nav>
     </toc></div>
                                         
                                         
-                                        <div class="docs-toc-mobile visually-hidden visually-hidden  d-print-none d-xl-none">
+                                        <div class="docs-toc-mobile  visually-hidden  d-print-none d-xl-none">
                                             <button id="toc-dropdown-btn" class="btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" data-bs-offset="0,0" aria-expanded="false">
                                                 Table of Contents
                                             </button>
@@ -238,54 +257,54 @@
                                             <div class="mb-0 d-flex">
                                                 
                                                 <h1 class="content-title mb-0">
-                                                    Docs
+                                                    Duplicate File Finder (dff)
+                                                    
+                                                        <span class="badge bg-default fs-6 mb-1 align-middle">DRAFT</span>
                                                     
                                                 </h1>
                                             </div>
                                             
                                             <div id="content" class="main-content" >
                                                 
-    <div class="row flex-xl-wrap">
-        
-        <div id="list-item" class="col-md-4 col-12 mt-4 pt-2">
-            <a class="text-decoration-none text-reset" href="http://localhost:1313/docs/projects/">
-                <div class="card h-100 features feature-full-bg rounded p-4 position-relative overflow-hidden border-1">
-                    <span class="icon-color d-flex my-3">
-                        <i class="material-icons align-middle">article</i>
-                        <span class="badge bg-default ms-2 fs-6 align-middle">DRAFT</span>
-                        <i class="material-icons icon-faint align-middle ms-auto" title="Directory">folder</i>
-                    </span>
-                    <div class="card-body p-0 content">
-                        <p class="fs-5 fw-semibold card-title mb-1">Projects</p>
-                        <p class="para card-text mb-0"></p>
-                    </div>
-                    
-                </div>
-            </a>
-        </div>
-        
-        <div id="list-item" class="col-md-4 col-12 mt-4 pt-2">
-            <a class="text-decoration-none text-reset" href="http://localhost:1313/docs/example-page/">
-                <div class="card h-100 features feature-full-bg rounded p-4 position-relative overflow-hidden border-1">
-                    <span class="icon-color d-flex my-3">
-                        <i class="material-icons align-middle">article</i>
-                        <span class="badge bg-default ms-2 fs-6 align-middle">DRAFT</span>
-                        
-                    </span>
-                    <div class="card-body p-0 content">
-                        <p class="fs-5 fw-semibold card-title mb-1">Example Page</p>
-                        <p class="para card-text mb-0">Just and example page for testing</p>
-                    </div>
-                    
-                </div>
-            </a>
-        </div>
-        
+    
+    <div data-prismjs-copy="" data-prismjs-copy-success="" data-prismjs-copy-error="">
+        <h1 id="about">About <a href="#about" class="anchor" aria-hidden="true"><i class="material-icons align-middle">link</i></a></h1><p><a href="https://github.com/nightcrawler086/dff" rel="external" target="_blank">dff<svg width="16" height="16" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M14 5c-.552 0-1-.448-1-1s.448-1 1-1h6c.552 0 1 .448 1 1v6c0 .552-.448 1-1 1s-1-.448-1-1v-3.586l-7.293 7.293c-.391.39-1.024.39-1.414 0-.391-.391-.391-1.024 0-1.414l7.293-7.293h-3.586zm-9 2c-.552 0-1 .448-1 1v11c0 .552.448 1 1 1h11c.552 0 1-.448 1-1v-4.563c0-.552.448-1 1-1s1 .448 1 1v4.563c0 1.657-1.343 3-3 3h-11c-1.657 0-3-1.343-3-3v-11c0-1.657 1.343-3 3-3h4.563c.552 0 1 .448 1 1s-.448 1-1 1h-4.563z"/></svg></a> is a cli program to find duplicate files in a tree, written in Go.</p>
+<p>It is currently in its most basic form, just printing out any duplicates that it finds. There are a few features that I want to add:</p>
+<ul>
+<li>Arguments
+<ul>
+<li>extension filter</li>
+<li>verbose</li>
+</ul>
+</li>
+<li>Performance
+<ul>
+<li>Use some concurrency features to test some performance improvements</li>
+</ul>
+</li>
+</ul>
+
     </div>
 
+    
+
+    
                                             </div>
                                             <div><hr class="doc-hr">
 <div id="doc-nav" class="d-print-none">
+
+	<div class="row flex-xl-nowrap flex-row-reverse">
+	<div class="col-sm-6 pt-2 doc-prev">
+		<a class="ms-auto" href="/docs/example-page/">
+			<div class="card h-100 my-1 text-end">
+				<div class="card-body py-2">
+                    <p class="card-title fs-5 fw-semibold lh-base mb-0">Example Page <i class="material-icons align-middle">navigate_next</i></p>
+					
+				</div>
+			</div>
+		</a>
+        </div>
+	</div>
 </div></div>
                                         </div>
                                     </div>

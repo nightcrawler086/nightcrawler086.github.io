@@ -1,6 +1,11 @@
 baseURL = 'https://nightcrawler086.github.io'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+[params.docs]
+  title = 'My New Hugo Site'
+  darkMode = true
+  themeColor = 'green'
+  prism = true
+  prismTheme = 'twilight'
 
 
 [module]
@@ -20,3 +25,4 @@ title = 'My New Hugo Site'
   url = "/docs/"
   identifier = "docs"
   weight = 10
+
