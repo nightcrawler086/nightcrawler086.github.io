@@ -1,6 +1,6 @@
 ---
 weight: 999
-title: "Work_experience"
+title: "Work Experience"
 description: ""
 icon: "article"
 date: "2026-02-21T10:27:35-05:00"
