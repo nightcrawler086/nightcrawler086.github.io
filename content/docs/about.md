@@ -2,7 +2,7 @@
 weight: 5
 title: "About"
 description: ""
-icon: "article"
+icon: "person"
 date: "2026-02-21T10:01:20-05:00"
 lastmod: "2026-02-21T10:01:20-05:00"
 draft: false
