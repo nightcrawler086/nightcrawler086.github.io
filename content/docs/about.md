@@ -1,7 +1,7 @@
 ---
 weight: 5
 title: "About"
-description: ""
+description: "Information about this site"
 icon: "person"
 date: "2026-02-21T10:01:20-05:00"
 lastmod: "2026-02-21T10:01:20-05:00"
